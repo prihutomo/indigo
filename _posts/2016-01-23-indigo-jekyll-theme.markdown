@@ -1,19 +1,15 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: Link demo aplikasi
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+date: '2018-12-12 22:10:00'
+tag: demo
 headerImage: true
-projects: true
-hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
-category: project
-author: johndoe
-externalLink: false
+demo: true
+hidden: true
+description: Kumpulan Demo Aplikasi
+category: demo
+author: Hanung Prihutomo
 ---
-
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
 Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
