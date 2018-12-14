@@ -17,6 +17,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: http://prihutomo.web.id
+url_secondary: http://portal-prihutomo.web.id
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -82,7 +83,8 @@ projects: false
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
-demo: true
+portal: true
+# demo: true
 # do you want to show the "read time" of the posts?
 read-time: true
 

@@ -22,10 +22,10 @@
             {% endif %}
         {% endif %}
 
-        {% if site.demo == true %}
-            {% if page.title != "Demo" %}
+        {% if site.portal == true %}
+            {% if page.title != "Portal" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/demo">Demo</a>
+                    <a class="link" target="_blank" href="{{ site.url_secondary }}">Portal</a>
                 </li>
             {% endif %}
         {% endif %}
