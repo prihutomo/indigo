@@ -1,3 +1,4 @@
 # For local testing, run:
 # bundle exec jekyll serve --config _config.yml,_config-dev.yml
 url: http://prihutomo.web.id
+url_secondary: http://portal-prihutomo.web.id
